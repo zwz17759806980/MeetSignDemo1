@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">会议签到</string>
+
+    <string name="main_no_meet">尚无会议签到</string>
+    <string name="title_meet_sign">会议签到刷脸</string>
+    <string name="historical_check_in_record">历史签到记录</string>
+    <string name="moul_empty">数据为空</string>
+    <string name="moul_error">加载失败</string>
+    <string name="moul_loading">正在加载</string>
+</resources>
